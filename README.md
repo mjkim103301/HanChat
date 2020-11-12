@@ -8,6 +8,10 @@
 - 결과
   - 영상: https://www.youtube.com/watch?v=73255TWkajU
   - 한이음 공모전 입선
+  
+<img src="/sample/appImage.PNG" title="px(픽셀) 크기 설정" alt="앱 이미지"></img><br/>
+<img src="/sample/server.PNG" title="px(픽셀) 크기 설정" alt="서버 동작"></img><br/>
+<img src="/sample/db.PNG" title="px(픽셀) 크기 설정" alt="데이터베이스"></img><br/>
 
 - 개발동기
   - 평소에 화이트보드나 공책등에 쓴 일정을 사진으로 찍어서 바로 일정으로 저장하고 싶다는 생각을 했다. 때문에 팀원과 이 아이디어를 구체화하여 앱을 기획했다.
@@ -28,12 +32,6 @@
 - DB - PostgreSQL, aws ec2
 - API - Dialogflow, GCP Vision
 - 개발 기간: 5개월
-
-작동 화면
------------
-<img src="/sample/appImage.PNG" title="px(픽셀) 크기 설정" alt="앱 이미지"></img><br/>
-<img src="/sample/server.PNG" title="px(픽셀) 크기 설정" alt="서버 동작"></img><br/>
-<img src="/sample/db.PNG" title="px(픽셀) 크기 설정" alt="데이터베이스"></img><br/>
 
 
 프로토타입
