@@ -1,18 +1,19 @@
 # 한이음 공모전 / 작품명: HanChat
 
-
-개요
+결과
 --------------
-- 사용자 일정관리 앱
-- 3인 팀 프로젝트
-- 결과
-  - 영상: https://www.youtube.com/watch?v=73255TWkajU
-  - 한이음 공모전 입선
+- 영상: https://www.youtube.com/watch?v=73255TWkajU
+- 한이음 공모전 입선
   
 <img src="/sample/appImage.PNG" title="px(픽셀) 크기 설정" alt="앱 이미지"></img><br/>
 <img src="/sample/server.PNG" title="px(픽셀) 크기 설정" alt="서버 동작"></img><br/>
 <img src="/sample/db.PNG" title="px(픽셀) 크기 설정" alt="데이터베이스"></img><br/>
 
+
+개요
+--------------
+- 사용자 일정관리 앱
+- 3인 팀 프로젝트
 - 개발동기
   - 화이트보드나 공책등에 쓴 일정을 사진으로 찍어서 바로 일정으로 저장하고 싶었습니다. 그래서 팀원과 아이디어를 구체화하여 앱을 기획했습니다.
 - 목표
